@@ -1,7 +1,9 @@
 ### Olá! Sou Sandro Vieira
-- Hoje estudo Power BI
+- Hoje focado em Power BI
 - Estudando Pentaho para tratamentos de dados automatizados
-- Estudando SQL Server
+- Conhecinemtos em SQL Server
+- Conhecimentos em Oracle
+- Conhecimentos em Postgres
 
 <div>
   <a href="https://www.formuladigital.com.br">
